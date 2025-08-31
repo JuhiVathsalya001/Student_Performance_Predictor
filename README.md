@@ -15,7 +15,14 @@ Takes input such as:
 Predicts student performance level  
 Simple web interface for input and result display
 
-``` Student_Performance_Predictor/ ├── static/ │ └── style.css ├── templates/ │ ├── index.html │ └── result.html ├── app.py ├── final_student_model.pkl └── README.md ```
+Student_Performance_Predictor/ 
+        ├── static/ │
+               └── style.css
+        ├── templates/ │
+              ├── index.html │
+              └── result.html
+        ├── app.py
+        ├── final_student_model.pkl 
 
 ## Folder Structure
 |- static 
