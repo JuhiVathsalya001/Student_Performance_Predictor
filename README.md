@@ -15,6 +15,7 @@ Takes input such as:
 Predicts student performance level  
 Simple web interface for input and result display
 
+## Folder Structure
 ```Student_Performance_Predictor/ 
         ├── static/ │
                └── style.css
@@ -24,14 +25,7 @@ Simple web interface for input and result display
         ├── app.py
         ├── final_student_model.pkl ```
 
-## Folder Structure
-|- static 
-    |- style.css
-|- templates
-    |- index.html
-    |- result.html
-|- app.py
-|- final_student_model.pkl
+
 
 ## Tech Stack 
 Machine Learning: scikit-learn, pickle
